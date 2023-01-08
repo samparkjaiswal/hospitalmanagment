@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220720T093000Z
+DTEND:20220720T103000Z
+DTSTAMP:20220714T083401Z
+ORGANIZER;CN=kruti.maheshwari@brainvire.com:mailto:kruti.maheshwari@brainvi
+ re.com
+UID:48ll321shkhoah6ikocvfq9qmh@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=samparkjaiswal2017@gmail.com;X-NUM-GUESTS=0:mailto:samparkjaiswal20
+ 17@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=kruti.maheshwari@brainvire.com;X-NUM-GUESTS=0:mailto:kruti.maheshwari@b
+ rainvire.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=dipesh.balar@brainvire.com;X-NUM-GUESTS=0:mailto:dipesh.balar@brain
+ vire.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/ppf-whgo-vye
+X-MICROSOFT-CDO-OWNERAPPTID:-880615070
+CREATED:20220714T083358Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/ppf-whgo-vye\n(U
+ S) +1 657-233-0884 PIN: 670010250#\nView more phone numbers: https://tel.me
+ et/ppf-whgo-vye?pin=7892183546586&hs=7\n\nView your event at https://calend
+ ar.google.com/calendar/event?action=VIEW&eid=NDhsbDMyMXNoa2hvYWg2aWtvY3ZmcT
+ lxbWggc2FtcGFya2phaXN3YWwyMDE3QG0&tok=MzAja3J1dGkubWFoZXNod2FyaUBicmFpbnZpc
+ mUuY29tZjBhM2JiOTI1ZTFjNjZiNTg2YTQ0MzZjZDUyYWY2ODZlZjQzYWExMA&ctz=Asia%2FKo
+ lkata&hl=en&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220714T083358Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sampark Jaiswal interview 
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
